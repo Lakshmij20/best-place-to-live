@@ -37,3 +37,6 @@ This tool is ideal for individuals considering relocation or researchers analyzi
 
 
 
+<img width="1279" height="506" alt="image" src="https://github.com/user-attachments/assets/63a11845-4551-4cba-bc04-b9d2063714ed" />
+
+
