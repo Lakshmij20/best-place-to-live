@@ -1,4 +1,4 @@
-# 🏡 Best Place to Live Dashboard
+# 🏡 Best State to Live in the US Dashboard
 
 This project presents an interactive dashboard built in **Microsoft Excel** (with Macros and VBA) that helps users compare U.S. states based on a range of **socio-economic and quality-of-life factors**.
 
